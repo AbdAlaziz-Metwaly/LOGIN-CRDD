@@ -1,0 +1,28 @@
+
+a{
+text-decoration: none;
+}
+ body{
+  background-color: #24353f;
+}
+.item{
+  box-shadow: 0 0  50px 0 rgba(0, 0, 0, 1);
+}
+.item .form-control {
+  background-color: transparent;
+  color: white;
+
+}
+h1 {
+  color: #17a2b8;
+}
+
+input::placeholder{
+  color:  #b6b6b6 !important;
+} 
+input:focus{
+  color: white !important;
+}
+
+
+
